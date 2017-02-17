@@ -564,6 +564,11 @@ ul.courses li:hover {
         display: none;
     }
 
+    p {
+      font-size: 0.9em;
+      line-height: 1.5;
+    }
+
     .company::before,
     .institution::before,
     .organization::before,
