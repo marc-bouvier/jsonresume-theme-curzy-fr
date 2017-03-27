@@ -10,6 +10,8 @@
 
 3. Website links in Volunteer section looks more comfortable
 
+4. Better CSS for `PRINT` your resume
+
 ## License
 
 Available under the [MIT license](http://opensource.org/licenses/mit-license.php).
