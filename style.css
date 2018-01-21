@@ -719,12 +719,14 @@ ul.courses li:hover {
     li {
         padding: 0;
     }
+    ul.highlights li p {
+        font-size: .8em;
+    }
     ul.keywords li,
     ul.courses li {
         margin: 0;
         padding: 0;
         font-size: .8rem;
-        text-transform: lowercase;
     }
     ul.keywords li::after,
     ul.courses li::after {
