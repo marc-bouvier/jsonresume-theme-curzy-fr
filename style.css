@@ -743,6 +743,9 @@ ul.courses li:hover {
         margin: 0;
         padding: 0;
     }
+    ul.courses::before {
+        content: "Major courses: ";
+    }
     ul.keywords li:last-of-type::after,
     ul.courses li:last-of-type::after {
         content: "";
