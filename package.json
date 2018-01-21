@@ -8,8 +8,9 @@
     "url": "https://github.com/Curzy/jsonresume-theme-curzy"
   },
   "license": "MIT",
+  "main": "index.js",
   "dependencies": {
-    "handlebars": "latest",
-    "moment": "latest"
+    "handlebars": "^4.0.10",
+    "moment": "^2.18.1"
   }
 }
