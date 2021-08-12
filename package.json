@@ -1,11 +1,11 @@
 {
-  "name": "jsonresume-theme-curzy",
-  "version": "1.0.9",
-  "description": "Modified JSON Resume theme from Stack Overflow theme",
-  "author": "Curzy <https://github.com/Curzy>",
+  "name": "jsonresume-theme-curzy-fr",
+  "version": "1.0.0",
+  "description": "French localized Curzy's JSON Resume theme",
+  "author": "Julien Dambron <https://github.com/jdambron>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Curzy/jsonresume-theme-curzy"
+    "url": "https://github.com/jdambron/jsonresume-theme-curzy-fr"
   },
   "license": "MIT",
   "main": "index.js",

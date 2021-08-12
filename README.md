@@ -1,11 +1,15 @@
-# It's Modified Version of Stack Overflow theme for jsonresume ([jsonresume-theme-stackoverflow](https://github.com/francescoes/jsonresume-theme-stackoverflow))
+# French localized [Curzy's JSON Resume theme](https://github.com/Curzy/jsonresume-theme-curzy)
 
-## [Demo](http://themes.jsonresume.org/theme/curzy)
+Basically a French translation of Curzy's JSON Resume theme.
 
-## Modified Features
+## License
 
-1. Open website links in new tab
+[MIT](https://choosealicense.com/licenses/mit/)
+  
+## Acknowledgements
 
-2. Highlights allows html tags(`<a>` for link, `<br>` for line breaking, ...)
+ - [jsonresume-theme-curzy](https://github.com/Curzy/jsonresume-theme-curzy)
+ - [jsonresume-theme-stackoverflow](https://github.com/phoinixi/jsonresume-theme-stackoverflow)
+ - [JSON Resume](https://jsonresume.org/)
+ - [HackMyResume](https://github.com/hacksalot/HackMyResume)
 
-3. Website links in Volunteer section looks more comfortable
