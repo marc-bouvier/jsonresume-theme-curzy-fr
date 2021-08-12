@@ -686,10 +686,9 @@ ul.courses li:hover {
     }
 
     .company::before,
-    .institution::before,
     .organization::before,
     .awarder::before {
-        content: "at ";
+        content: "chez ";
     }
     .main-summary {
         padding: 2rem 0;
