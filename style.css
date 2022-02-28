@@ -699,6 +699,7 @@ ul.courses li:hover {
         padding: 2rem 0;
     }
     .section {
+        break-inside: avoid-page; /* try not to break inside a section when possible */
         margin: .8rem 0;
         padding: 0;
     }
