@@ -337,6 +337,7 @@ h2.section-title {
 }
 
 .position,
+.certificate-name,
 .company,
 .organization,
 .institution,
@@ -344,11 +345,13 @@ h2.section-title {
 .area,
 .studyType,
 .title,
-.awarder {
+.awarder,
+.issuer{
     display: inline;
 }
 
 .position,
+.certificate-name,
 .studyType,
 .area,
 .title,
