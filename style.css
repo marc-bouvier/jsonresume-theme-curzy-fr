@@ -368,6 +368,7 @@ h2.section-title {
 
 .company,
 .institution,
+.issuer,
 .organization,
 .awarder {
     color: #606d76;
@@ -645,6 +646,7 @@ ul.courses li:hover {
     }
     .company::before,
     .institution::before,
+    .issuer::before,
     .organization::before,
     .awarder::before {
         content: "| ";
