@@ -6,7 +6,8 @@ Fork of [jdrambon's fork](https://github.com/jdambron/jsonresume-theme-curzy-fr)
 ## Install
 
 ```bash
-npm install https://github.com/marc-bouvier/jsonresume-theme-curzy-fr-certs```
+npm install https://github.com/marc-bouvier/jsonresume-theme-curzy-fr-certs
+```
 
 ## License
 
