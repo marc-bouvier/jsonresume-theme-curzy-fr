@@ -1,11 +1,11 @@
 {
-  "name": "jsonresume-theme-curzy-fr",
-  "version": "1.0.2",
-  "description": "French localized Curzy's JSON Resume theme",
-  "author": "Julien Dambron <https://github.com/jdambron>",
+  "name": "jsonresume-theme-curzy-fr-certs",
+  "version": "0.0.1",
+  "description": "French localized Curzy's JSON Resume theme with certificates",
+  "author": "Marc Bouvier <https://github.com/marc-bouvier>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jdambron/jsonresume-theme-curzy-fr"
+    "url": "https://github.com/marc-bouvier/jsonresume-theme-curzy-fr-certs"
   },
   "license": "MIT",
   "main": "index.js",

@@ -1,6 +1,7 @@
 # French localized [Curzy's JSON Resume theme](https://github.com/Curzy/jsonresume-theme-curzy)
 
 Basically a French translation of Curzy's JSON Resume theme.
+Fork of [jdrambon's fork](https://github.com/jdambron/jsonresume-theme-curzy-fr) with additional support for certificates
 
 ## License
 
@@ -8,8 +9,9 @@ Basically a French translation of Curzy's JSON Resume theme.
   
 ## Acknowledgements
 
- - [jsonresume-theme-curzy](https://github.com/Curzy/jsonresume-theme-curzy)
- - [jsonresume-theme-stackoverflow](https://github.com/phoinixi/jsonresume-theme-stackoverflow)
- - [JSON Resume](https://jsonresume.org/)
- - [HackMyResume](https://github.com/hacksalot/HackMyResume)
+- [jsonresume-theme-curzy-fr](https://github.com/jdambron/jsonresume-theme-curzy-fr)
+- [jsonresume-theme-curzy](https://github.com/Curzy/jsonresume-theme-curzy)
+- [jsonresume-theme-stackoverflow](https://github.com/phoinixi/jsonresume-theme-stackoverflow)
+- [JSON Resume](https://jsonresume.org/)
+- [HackMyResume](https://github.com/hacksalot/HackMyResume)
 
