@@ -3,6 +3,11 @@
 Basically a French translation of Curzy's JSON Resume theme.
 Fork of [jdrambon's fork](https://github.com/jdambron/jsonresume-theme-curzy-fr) with additional support for certificates
 
+## Install
+
+```bash
+npm install https://github.com/marc-bouvier/jsonresume-theme-curzy-fr-certs```
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)

@@ -7,6 +7,9 @@
     "type": "git",
     "url": "https://github.com/marc-bouvier/jsonresume-theme-curzy-fr-certs"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "license": "MIT",
   "main": "index.js",
   "dependencies": {
